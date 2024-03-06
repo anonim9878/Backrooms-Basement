@@ -1,0 +1,4 @@
+repository "Backrooms@Kril78531@cloud"
+  path "/"
+    br "/main"
+    co "/main"
